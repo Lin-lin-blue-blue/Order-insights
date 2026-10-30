@@ -19,9 +19,6 @@ npm run build      # static site in dist/
 
 Push to git as usual. `dist/` can be hosted anywhere that serves static files (GitHub Pages, Netlify, Vercel, a school server). The build uses relative paths, so no extra setting is needed.
 
-## Add the logo
-
-Replace `public/logo.svg` with your logo (keep the name, or put `logo.png` in `public/` and change `LOGO` in `src/config.js`). The app name is in the same file. The logo shows at the top of the sidebar.
 
 ## How the data works
 
